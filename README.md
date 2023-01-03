@@ -18,6 +18,4 @@
 📫 How to reach me mibtehajnasar@gmail.com
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibtehaj-dnt&layout=compact" alt="Ibtehaj Nasar" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibtehaj-dnt&show_icons=true" alt="Ibtehaj Nasar" /></p>
